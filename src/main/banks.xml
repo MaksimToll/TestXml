@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<banks xmlns="www.ya.ua">
+    <network name="sfera">
+        <bank>
+            <name/>prvat
+            <link>aasdfsdf</link>
+        </bank>
+    </network>
+    <network name="sfera3">
+        <bank>
+            <name/>prvat3
+            <link>aasdfsdf3</link>
+        </bank>
+    </network>
+    <network name="sfera">
+        <bank>
+            <name/>prvat111
+            <link>aasdfsdf111</link>
+        </bank>
+    </network>
+</banks>
